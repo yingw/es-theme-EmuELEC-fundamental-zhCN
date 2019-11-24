@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+theme name:		Fundamental (vectrex)
+version:		2.0
+author:			Juliano Dorigão
+-->
+
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../fundamental.xml</include>
+
+	<view name="system, basic, detailed, grid, video">
+		<image name="logo">
+			<path>./logo.svg</path>
+		</image>
+	</view>
+
+	<feature supported="carousel">
+		<view name="system">
+			<image name="console" extra="true">
+				<path>./console.png</path>
+			</image>
+
+			<text name="console_notes" extra="true">
+				<text>SC-3000 was a home computer manufactured by Sega equivalent to the SG-1000 video game. It was sold for ¥ 29,800 in 1983 and advertised as a starter computer. Thanks to compatibility with games developed for SG-1000 and due to the ability to use typical computer applications, it sold more units than SG-1000. In addition, their users could create their own software and games on their own machine.
+
+The SC-3000H, originally sold for 33,800 yen, was an improved version of the original system, with more RAM and an improved keyboard (the original version was equipped with a membrane keyboard). Accessories available for the computer included a speech synthesis unit, an optical pen, and an extension called SF-7000 that added 64KB of RAM, 8KB of ROM, a floppy disk drive, a Centronics parallel port, and a serial port. RS232.</text>
+			</text>
+
+			<text name="release_date" extra="true">
+				<text>Release Date: November 1983</text>
+			</text>
+
+			<text name="developer" extra="true">
+				<text>Developer: General Consumer Electronics</text>
+			</text>
+
+			<text name="cpu" extra="true">
+				<text>CPU: 	Zilog Z80</text>
+			</text>
+
+			<text name="memory" extra="true">
+				<text>Memory: </text>
+			</text>
+
+			<text name="graphics" extra="true">
+				<text></text>
+			</text>
+
+			<text name="sound" extra="true">
+				<text></text>
+			</text>
+
+			<text name="media" extra="true">
+				<text>Media: ROM cartridge</text>
+			</text>
+		</view>
+	</feature>
+
+</theme>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+theme name:		Fundamental (comodore64)
+version:		2.0
+author:			Juliano Dorigão
+-->
+
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../fundamental.xml</include>
+
+	<view name="system, basic, detailed, grid, video">
+		<image name="logo">
+			<path>./logo.svg</path>
+		</image>
+	</view>
+
+	<feature supported="carousel">
+		<view name="system">
+			<image name="console" extra="true">
+				<path>./console.png</path>
+			</image>
+
+			<text name="console_notes" extra="true">
+				<text>The Commodore 128, also known as the C128, C-128, C= 128,is the last 8-bit home computer that was commercially released by Commodore Business Machines (CBM). Introduced in January 1985 at the CES in Las Vegas, it appeared three years after its predecessor, the bestselling Commodore 64.
+
+The C128 is a significantly expanded successor to the C64, with nearly full compatibility. The newer machine has 128 KB of RAM in two 64 KB banks, and an 80-column color video output. It has a redesigned case and keyboard. Also included is a Zilog Z80 CPU which allows the C128 to run CP/M, as an alternative to the usual Commodore BASIC environment. The presence of the Z80 and the huge CP/M software library it brings, coupled with the C64's software library, gives the C128 one of the broadest ranges of available software among its competitors.
+
+The primary hardware designer of the C128 was Bil Herd, who had worked on the Plus/4. Other hardware engineers were Dave Haynie and Frank Palaia, while the IC design work was done by Dave DiOrio. The main Commodore system software was developed by Fred Bowen and Terry Ryan, while the CP/M subsystem was developed by Von Ertwine.</text>
+			</text>
+
+			<text name="release_date" extra="true">
+				<text>Release Date: January 1985</text>
+			</text>
+
+			<text name="developer" extra="true">
+				<text>Developer: Commodore Business Machines (CBM)</text>
+			</text>
+
+			<text name="cpu" extra="true">
+				<text>CPU: 	MOS 8502 1-2 MHz</text>
+			</text>
+
+			<text name="memory" extra="true">
+				<text>Memory: 64 KB RAM + 20 KB ROM</text>
+			</text>
+
+			<text name="graphics" extra="true">
+				<text>Graphics: VIC-II (320 × 200, 16 colors)</text>
+			</text>
+
+			<text name="sound" extra="true">
+				<text>Sound: SID 6581/8580</text>
+			</text>
+		</view>
+	</feature>
+
+</theme>

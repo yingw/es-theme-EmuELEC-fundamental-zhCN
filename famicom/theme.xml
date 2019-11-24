@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+theme name:		Fundamental (neogeo)
+version:		2.0
+author:			Juliano Dorigão
+-->
+
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../fundamental.xml</include>
+	
+	<view name="system, basic, detailed, grid, video">
+		<image name="logo">
+			<path>./logo.svg</path>
+		</image>
+	</view>
+	
+	<feature supported="carousel">
+		<view name="system">	
+			<image name="console" extra="true">
+				<path>./console.png</path>
+			</image>
+	
+			<text name="console_notes" extra="true">
+				<text>Family Computer Disk System (フ ァ ミ リ ー コ ン ピ ピ ピ タ タ タ タ ス ス ム ム ir ir ム ム ム ム ム ム ム ム ム ム ム ム,,,,,,,,,,,,,,,,,,,,,,, It consists of using floppy disks as media for game storage. This accessory was used in the Nintendo Entertainment System. It was distributed only in Japan, but was unsuccessful due to the problems that such media is subject to. It was placed in the Famicom cartridge slot, and ran floppy games and was used as a computer.</text>
+			</text>
+		
+			<text name="release_date" extra="true">
+				<text>Release Date: january 21, 1986</text>
+			</text>
+			
+			<text name="developer" extra="true">
+				<text>Developer: Nintendo</text>
+			</text>
+			
+			<text name="cpu" extra="true">
+				<text>Ricoh 2A03 8-bi </text>
+			</text>
+			
+			<text name="memory" extra="true">
+				<text></text>
+			</text>
+			
+			<text name="graphics" extra="true">
+				<text></text>
+			</text>
+			
+			<text name="sound" extra="true">
+				<text></text>
+			</text>
+			
+			<text name="media" extra="true">
+				<text></text>
+			</text>
+		</view>
+	</feature>
+	
+</theme>

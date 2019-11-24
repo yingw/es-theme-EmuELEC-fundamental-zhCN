@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+
 <!--
 theme name:		Fundamental
 version:		2.0
@@ -9,9 +9,9 @@ author:			Grila
 	<formatVersion>4</formatVersion>
 	
 	<variables>
-		<mainThemeColor>28405A</mainThemeColor>
-		<titleTextColor>387297</titleTextColor>
-		<metaTextColor>EFEFEF</metaTextColor>
+		<mainThemeColor>111638</mainThemeColor>
+		<titleTextColor>514687</titleTextColor>
+		<metaTextColor>626262</metaTextColor>
 		<!-- <mainThemeColor>333333</mainThemeColor> -->
 		<!-- <titleTextColor>777777</titleTextColor> -->
 		<!-- <metaTextColor>EFEFEF</metaTextColor> -->

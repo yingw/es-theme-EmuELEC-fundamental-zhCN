@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+theme name:		Fundamental (comodore64)
+version:		2.0
+author:			Juliano Dorigão
+-->
+
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../fundamental.xml</include>
+
+	<view name="system, basic, detailed, grid, video">
+		<image name="logo">
+			<path>./logo.svg</path>
+		</image>
+	</view>
+
+	<feature supported="carousel">
+		<view name="system">
+			<image name="console" extra="true">
+				<path>./console.png</path>
+			</image>
+
+			<text name="console_notes" extra="true">
+				<text>
+The Commodore 16 was a Commodore-produced home computer with a 7501-compatible MOS Technology 6501 CPU, released in 1984. It was designed for a basic computer to replace the VIC-20 and sold for $ 99. low cost, or Commodore 116, was sold in Europe and the United States.</text>
+			</text>
+
+			<text name="release_date" extra="true">
+				<text>Release Date: August 1984</text>
+			</text>
+
+			<text name="developer" extra="true">
+				<text>Developer: Commodore Business Machines (CBM)</text>
+			</text>
+
+			<text name="cpu" extra="true">
+				<text>MOS Technology 7501 em 0,89 MHz ou 1,76 MHz</text>
+			</text>
+
+			<text name="memory" extra="true">
+				<text>Memory: 16 KiB</text>
+			</text>
+
+			<text name="graphics" extra="true">
+				<text>Graphics: VIC-II (320 × 200, 16 colors)</text>
+			</text>
+
+			<text name="sound" extra="true">
+				<text>Sound: SID 6581/8580</text>
+			</text>
+		</view>
+	</feature>
+
+</theme>

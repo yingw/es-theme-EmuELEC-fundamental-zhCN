@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+theme name:		Fundamental (zx81)
+version:		2.0
+author:			Juliano Dorigão
+-->
+
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../fundamental.xml</include>
+
+	<view name="system, basic, detailed, grid, video">
+		<image name="logo">
+			<path>./logo.svg</path>
+		</image>
+	</view>
+
+	<feature supported="carousel">
+		<view name="system">
+			<image name="console" extra="true">
+				<path>./console.png</path>
+			</image>
+
+			<text name="console_notes" extra="true">
+				<text>The Philips Videopac+ G7400 is a third-generation home video game console released in limited quantities in 1983,[1] and only in Europe; an American release as the Odyssey³ Command Center was planned but never occurred. The G7400 was the successor to the Philips Videopac G7000, the European counterpart to the American Magnavox Odyssey².[2] The system featured excellently tailored background and foreground graphics.[3]
+
+The G7400 could play three types of games: all normal G7000 games, special G7000 games with additional high-res background graphics that would appear only when played on the G7400, and G7400-only games with high-res sprites and backgrounds.</text>
+			</text>
+
+			<text name="release_date" extra="true">
+				<text>Release Date: March 5, 1983</text>
+			</text>
+
+			<text name="developer" extra="true">
+				<text>Developer: Philips</text>
+			</text>
+
+			<text name="cpu" extra="true">
+				<text>CPU: Z80 	Intel 8048 @ 5.91MHz</text>
+			</text>
+
+			<text name="memory" extra="true">
+				<text>Memory: 6 KB RAM, 1 KB ROM</text>
+			</text>
+
+			<text name="graphics" extra="true">
+				<text>Graphics: </text>
+			</text>
+
+			<text name="sound" extra="true">
+				<text>Sound:</text>
+			</text>
+
+			<text name="media" extra="true">
+				<text>Media: Cassette tape</text>
+			</text>
+		</view>
+	</feature>
+
+</theme>

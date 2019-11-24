@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+theme name:		Fundamental (neogeo)
+version:		2.0
+author:			Juliano Dorigão
+-->
+
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../fundamental.xml</include>
+	
+	<view name="system, basic, detailed, grid, video">
+		<image name="logo">
+			<path>./logo.svg</path>
+		</image>
+	</view>
+	
+	<feature supported="carousel">
+		<view name="system">	
+			<image name="console" extra="true">
+				<path>./console.png</path>
+			</image>
+	
+			<text name="console_notes" extra="true">
+				<text>The CPS-1 or Capcom Play System 1 is a Capcom arcade card that debuted in 1988 with the game Forgotten Worlds. Street Fighter II, one of the most popular fighting games of all time, used this system.
+
+The system has fallen victim to a number of altered versions (bootlegs) of its games. In particular, there were so many modified versions of Street Fighter II that it was more common to find them than the original version, especially in Brazil. This issue would be resolved later with the release of CPS-2 and a complex protection scheme.</text>
+			</text>
+		
+			<text name="release_date" extra="true">
+				<text>Release Date: may 30, 1988</text>
+			</text>
+			
+			<text name="developer" extra="true">
+				<text>Developer: Capcom</text>
+			</text>
+			
+			<text name="cpu" extra="true">
+				<text> Motorola 68000</text>
+			</text>
+			
+			<text name="memory" extra="true">
+				<text></text>
+			</text>
+			
+			<text name="graphics" extra="true">
+				<text></text>
+			</text>
+			
+			<text name="sound" extra="true">
+				<text> Yamaha YM2151</text> 
+			</text>
+			
+			<text name="media" extra="true">
+				<text></text>
+			</text>
+		</view>
+	</feature>
+	
+</theme>
