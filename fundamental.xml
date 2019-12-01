@@ -552,7 +552,7 @@ author:			Grila
 
 			<image name="md_marquee">
 				<origin>0.5 0.5</origin>
-				<pos>0.4401041666666667 0.0833333333333333</pos>
+				<pos>0.8072916666666667 0.0833333333333333</pos>
 				<maxSize>0.3489583333333333 0.1111111111111111</maxSize>
 			</image>
 		</view>
