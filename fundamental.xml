@@ -543,10 +543,10 @@ author:			Grila
 				<origin>0.5 0.5</origin>
 				<pos>0.8072916666666667 0.3888888888888889</pos>
 				<maxSize>0.3333333333333333 0.4444444444444444</maxSize>
-				<default>./core/images/static.mp4</default>
+				<!--<default>./core/images/static.mp4</default>-->
 				<delay>0.1</delay>
-				<showSnapshotNoVideo>false</showSnapshotNoVideo>
-				<showSnapshotDelay>false</showSnapshotDelay>
+				<showSnapshotNoVideo>true</showSnapshotNoVideo>
+				<showSnapshotDelay>true</showSnapshotDelay>
 				<zIndex>3</zIndex>
 			</video>
 
