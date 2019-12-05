@@ -3,13 +3,18 @@
 theme name:		Fundamental
 version:		2.0
 author:			Grila
+
+Editado: por José Adriano para atender necessidades em emuelec.
 -->
 
 <theme>
 	<formatVersion>4</formatVersion>
+	<include subset="systemview" name="classic"></include>
+	<include subset="systemview" name="video view">./video.xml</include>
 	<include>./colors.xml</include>
 	<include>./core/icons/menuicons.xml</include>
 	<include>./core/menu/menu.xml</include>
+	
 
 	<view name="system, basic, detailed, grid, video">
 		<image name="background" extra="true">
@@ -546,7 +551,7 @@ author:			Grila
 				<!--<default>./core/images/static.mp4</default>-->
 				<delay>0.1</delay>
 				<showSnapshotNoVideo>true</showSnapshotNoVideo>
-				<showSnapshotDelay>true</showSnapshotDelay>
+				<showSnapshotDelay>false</showSnapshotDelay>
 				<zIndex>3</zIndex>
 			</video>
 

@@ -1,0 +1,20 @@
+﻿
+<theme>
+  <formatVersion>7</formatVersion>
+ <view name="system">
+    <video name="backgroundvideo" extra="true">
+      <path>{random}</path>                 
+      <pos>0.8072916666666667 0.3788888888888889</pos>
+	  <origin>0.5 0.5</origin>
+	  <maxSize>0.3333333333333333 0.4444444444444444</maxSize>
+	  <default>./core/images/static.mp4</default>
+      <delay>0.1</delay>
+      <zIndex>11</zIndex>      
+    </video>
+<image name="console" extra="true">
+  <visible>false</visible>
+				
+			</image>
+  </view>
+  
+</theme>
