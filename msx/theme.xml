@@ -22,17 +22,17 @@ author:			Juliano Dorigão
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>MSX is a standardized home computer architecture, announced by Microsoft on June 16, 1983. It was conceived and marketed by Kazuhiko Nishi, then vice-president at Microsoft Japan and director at ASCII Corporation. Nishi conceived the project as an attempt to create unified standards among various home computing system manufacturers of the period.
+				<text>MSX 是 Microsoft 于1983年6月16日宣布的一种标准化的家用计算机体系结构。 它由当时的 Microsoft Japan 副总裁兼 ASCII Corporation 董事 Nishi Kazuhiko Nishi 构思和销售。 Nishi 将该项目设想为试图在此期间的各个家庭计算系统制造商之间创建统一标准的尝试。 
 
-MSX systems were popular in Japan and several other countries. It is difficult to determine how many MSX computers were sold worldwide, but eventually 5 million MSX-based units were sold in Japan alone. Despite Microsoft's involvement, few MSX-based machines were released in the United States.</text>
+MSX 系统在日本和其他几个国家很受欢迎。 很难确定全球销售了多少台 MSX 计算机， 但最终仅在日本就销售了500万台基于 MSX 的计算机。 尽管 Microsoft 参与其中， 但在美国很少发布基于 MSX 的计算机。 </text>
 			</text>
 		
 			<text name="release_date" extra="true">
-				<text>Release Date: June 16, 1983</text>
+				<text>发布日期: June 16, 1983</text>
 			</text>
 			
 			<text name="developer" extra="true">
-				<text>Developer: Microsoft Japan, Sanyo</text>
+				<text>厂商: Microsoft Japan, Sanyo</text>
 			</text>
 			
 			<text name="cpu" extra="true">
@@ -40,19 +40,19 @@ MSX systems were popular in Japan and several other countries. It is difficult t
 			</text>
 			
 			<text name="memory" extra="true">
-				<text>Memory: 8-512 KB</text>
+				<text>内存: 8-512 KB</text>
 			</text>
 			
 			<text name="graphics" extra="true">
-				<text>Graphics: Texas Instruments TMS9918</text>
+				<text>显卡: Texas Instruments TMS9918</text>
 			</text>
 			
 			<text name="sound" extra="true">
-				<text>Sound: General Instrument AY-3-8910</text>
+				<text>声卡: General Instrument AY-3-8910</text>
 			</text>
 			
 			<text name="media" extra="true">
-				<text>Media: Floppy disk, Datasette, Cartridge</text>
+				<text>存储介质: Floppy disk, Datasette, Cartridge</text>
 			</text>
 		</view>
 	</feature>

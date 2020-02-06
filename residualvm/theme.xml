@@ -22,19 +22,19 @@ author:			Juliano Dorigão
 			</image>
 
 			<text name="console_notes" extra="true">
-				<text>ResidualVM (formerly Residual) is a cross-platform computer program comprising 3D game engine recreations with a common graphical user interface. It supports Grim Fandango, Myst III: Exile and The Longest Journey.
+				<text>ResidualVM （以前称为 Residual ）是一种跨平台计算机程序， 包含具有公共图形用户界面的3D 游戏引擎娱乐功能。 它支持 Grim Fandango ， Myst III ： Exile 和 The Longest Journey 。 
 
-ResidualVM was originally designed to play LucasArts adventure games that use the GrimE game engine.On May 26, 2009, ResidualVM was adapted so that it could support multiple engines.The Sprint engine from Presto Studios is now recreated in ResidualVM as well. Various other engines are in preliminary stages, but have not yet been added to the main branch. Like its sister project, the 2D adventure game interpreter ScummVM,the VM in ResidualVM stands for virtual machine.
+ResidualVM 最初旨在玩使用 GrimE 游戏引擎的 LucasArts 冒险游戏.2009年5月26日， 对 ResidualVM 进行了修改， 使其可以支持多个引擎。 现在， Presto Studios 的 Sprint 引擎也在 ResidualVM 中重新创建。 其他各种引擎也处于初步阶段， 但尚未添加到主分支中。 与其姊妹项目2D 冒险游戏解释器 ScummVM 一样， ResidualVM 中的 VM 代表虚拟机。 
 
-ResidualVM is a reimplementation of the part of the software used to interpret the scripting languages by conducting reverse engineering on the original game rather than emulating the hardware on which the games ran. As such, ResidualVM allows the games it supports to be played on platforms other than those for which they were originally released.</text>
+ResidualVM 是对用于解释脚本语言的部分软件的重新实现， 方法是对原始游戏进行逆向工程， 而不是模拟运行游戏的硬件。 因此， ResidualVM 允许其支持的游戏在其最初发行的平台以外的平台上播放。 </text>
 			</text>
 
 			<text name="release_date" extra="true">
-				<text>Release Date: August 15, 2003</text>
+				<text>发布日期: August 15, 2003</text>
 			</text>
 
 			<text name="developer" extra="true">
-				<text>Developer: ResidualVM Team</text>
+				<text>厂商: ResidualVM Team</text>
 			</text>
 
 			<text name="cpu" extra="true">

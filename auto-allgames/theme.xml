@@ -22,7 +22,7 @@ author:			Juliano Dorigão
 			</image>
 
 			<text name="console_notes" extra="true">
-				<text>List all games.</text>
+				<text>显示所有游戏。 </text>
 			</text>
 		</view>
 	</feature>

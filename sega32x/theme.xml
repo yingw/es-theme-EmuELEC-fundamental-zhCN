@@ -22,15 +22,15 @@ author:			Grila
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>The 32X is an add-on for the Sega Mega Drive/Genesis video game console. Codenamed "Project Mars", the 32X was designed to expand the power of the Genesis and serve as a transitional console into the 32-bit era until the release of the Sega Saturn. Independent of the Genesis, the 32X uses its own ROM cartridges and has its own library of games. The add-on was distributed under the name Super 32X in Japan, Genesis 32X in North America, Mega Drive 32X in the PAL region, and Mega 32X in Brazil.</text>
+				<text>32X 是 Sega Mega Drive / Genesis 视频游戏机的附加组件。 代号为“火星计划”的32X 旨在扩大 Genesis 的功能， 并充当过渡到32位时代的控制台， 直到世嘉土星发布。 独立于 Genesis 的32X 使用其自己的 ROM 盒带并拥有自己的游戏库。 该附加组件在日本以 Super 32X ， 在北美的 Genesis 32X ， 在 PAL 地区的 Mega Drive 32X 和在巴西的 Mega 32X 的名称发行。 </text>
 			</text>
 		
 			<text name="release_date" extra="true">
-				<text>Release Date: June 1, 1994</text>
+				<text>发布日期: June 1, 1994</text>
 			</text>
 			
 			<text name="developer" extra="true">
-				<text>Developer: Sega</text>
+				<text>厂商: Sega</text>
 			</text>
 			
 			<text name="cpu" extra="true">
@@ -38,19 +38,19 @@ author:			Grila
 			</text>
 			
 			<text name="memory" extra="true">
-				<text>Memory: 256 KB RAM</text>
+				<text>内存: 256 KB RAM</text>
 			</text>
 			
 			<text name="graphics" extra="true">
-				<text>Graphics: Sega 32X VDP</text>
+				<text>显卡: Sega 32X VDP</text>
 			</text>
 			
 			<text name="sound" extra="true">
-				<text>Sound: QSound PWM</text>
+				<text>声卡: QSound PWM</text>
 			</text>
 			
 			<text name="media" extra="true">
-				<text>Media: Cartridge</text>
+				<text>存储介质: Cartridge</text>
 			</text>
 		</view>
 	</feature>

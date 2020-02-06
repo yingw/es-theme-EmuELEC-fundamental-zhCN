@@ -22,15 +22,15 @@ author:			Grila
 			</image>
 
 			<text name="console_notes" extra="true">
-				<text>The Game Boy is an 8-bit handheld video game console developed and manufactured by Nintendo. It was released in Japan on April 21, 1989, in North America in August 1989, and in Europe in 1990. In Southern Asia, it is known as the "Tata Game Boy" It is the first handheld console in the Game Boy line. It was created by Gunpei Yokoi and Nintendo's Research and Development — the same staff who had designed the Game & Watch series as well as several popular games for the NES. The Game Boy was Nintendo's second handheld system following the Game & Watch series introduced in 1980, and it combined features from both the Nintendo Entertainment System and Game and Watch. It was also the first handheld game to use video game cartridges since Milton Bradley's Microvision handheld console. Despite many other, technologically superior handheld consoles introduced during its lifetime, the Game Boy was a tremendous success.</text>
+				<text>Game Boy 是 Nintendo 开发和制造的8位手持视频游戏机。 它于1989年4月21日在日本， 1989年8月在北美和1990年在欧洲发布。 在南亚， 它被称为“ Tata Game Boy ”。 它是 Game Boy 系列中的第一个手持式游戏机。 它是由 Gunpei Yokoi 和 Nintendo 的研究与开发部创建的， 他们是为 Game ＆ Watch 系列以及 NES 的一些流行游戏设计的同一名员工。 Game Boy 是任天堂在1980年推出的“游戏与手表”系列之后的第二个手持式系统， 它结合了任天堂娱乐系统和“游戏与手表”的功能。 这也是自 Milton Bradley 的 Microvision 掌上游戏机以来的第一款使用视频游戏盒带的掌上游戏。 尽管在其一生中推出了许多其他技术上优越的手持式游戏机， 但 Game Boy 还是取得了巨大的成功。 </text>
 			</text>
 
 			<text name="release_date" extra="true">
-				<text>Release Date: April 21, 1989</text>
+				<text>发布日期: April 21, 1989</text>
 			</text>
 
 			<text name="developer" extra="true">
-				<text>Developer: Nintendo</text>
+				<text>厂商: Nintendo</text>
 			</text>
 
 			<text name="cpu" extra="true">
@@ -38,19 +38,19 @@ author:			Grila
 			</text>
 
 			<text name="memory" extra="true">
-				<text>Memory: 8 KB SRAM and 8 KB video RAM</text>
+				<text>内存: 8 KB SRAM and 8 KB video RAM</text>
 			</text>
 
 			<text name="graphics" extra="true">
-				<text>Graphics: N/A</text>
+				<text>显卡: N/A</text>
 			</text>
 
 			<text name="sound" extra="true">
-				<text>Sound: 4 channel mono</text>
+				<text>声卡: 4 channel mono</text>
 			</text>
 
 			<text name="media" extra="true">
-				<text>Media: Cartridge</text>
+				<text>存储介质: Cartridge</text>
 			</text>
 		</view>
 	</feature>

@@ -22,19 +22,19 @@ author:			Juliano Dorigão
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>Famicom, which is short for Family Computer, is an 8-bit home computer and video game console released by Nintendo in Japan on July 15th, 1983. It came with two controllers, as well as home versions of three Nintendo arcade games: Donkey Kong, Donkey Kong Jr., and Popeye.</text>
+				<text>Famicom 是 Family Computer 的缩写， 是任天堂于1983年7月15日在日本发布的8位家用计算机和视频游戏机。 它带有两个控制器以及三个任天堂街机游戏的家用版本：大金刚 ， 小金刚和大力水手。 </text>
 			</text>
 		
 			<text name="release_date" extra="true">
-				<text>Release Date: july 15, 1983</text>
+				<text>发布日期: july 15, 1983</text>
 			</text>
 			
 			<text name="developer" extra="true">
-				<text>Developer: Nintendo</text>
+				<text>厂商: Nintendo</text>
 			</text>
 			
 			<text name="cpu" extra="true">
-				<text>Ricoh 2A03 8-bi </text>
+				<text>CPU: Ricoh 2A03 8-bi </text>
 			</text>
 			
 			<text name="memory" extra="true">

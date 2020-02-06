@@ -22,15 +22,15 @@ author:			Grila
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>MAME (an acronym of Multiple Arcade Machine Emulator) is a free and open source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms. The intention is to preserve gaming history by preventing vintage games from being lost or forgotten. The aim of MAME is to be a reference to the inner workings of the emulated arcade machines; the ability to actually play the games is considered "a nice side effect". The first public MAME release (0.1) was on February 5, 1997, by Nicola Salmoria. The emulator now supports over seven thousand unique games and ten thousand actual ROM image sets, though not all of the supported games are playable.</text>
+				<text>MAME （ Multiple Arcade Machine Emulator 的缩写）是一种免费和开源的模拟器， 旨在在现代个人计算机和其他平台上的软件中重新创建街机游戏系统的硬件。 目的是通过防止老式游戏丢失或遗忘来保留游戏历史。 MAME 的目的是为模拟街机的内部工作提供参考。 实际玩游戏的能力被认为是“不错的副作用”。 Nicola Salmoria 于1997年2月5日发布了第一个公开的 MAME （0.1）。 该仿真器现在支持七千多种独特的游戏和一万种实际的 ROM 映像集， 尽管并非所有受支持的游戏都可以播放。 </text>
 			</text>
 		
 			<text name="release_date" extra="true">
-				<text>Release Date: Varies</text>
+				<text>发布日期: Varies</text>
 			</text>
 			
 			<text name="developer" extra="true">
-				<text>Developer: Varies</text>
+				<text>厂商: Varies</text>
 			</text>
 			
 			<text name="cpu" extra="true">
@@ -38,19 +38,19 @@ author:			Grila
 			</text>
 			
 			<text name="memory" extra="true">
-				<text>Memory: Varies</text>
+				<text>内存: Varies</text>
 			</text>
 			
 			<text name="graphics" extra="true">
-				<text>Graphics: Varies</text>
+				<text>显卡: Varies</text>
 			</text>
 			
 			<text name="sound" extra="true">
-				<text>Sound: Varies</text>
+				<text>声卡: Varies</text>
 			</text>
 			
 			<text name="media" extra="true">
-				<text>Media: Varies</text>
+				<text>存储介质: Varies</text>
 			</text>
 		</view>
 	</feature>

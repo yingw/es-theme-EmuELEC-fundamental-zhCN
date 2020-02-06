@@ -22,15 +22,15 @@ author:			Juliano Dorigão
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>The Dreamcast is a home video game console released by Sega on November 27, 1998 in Japan, September 9, 1999 in North America, and October 14, 1999 in Europe. It was the first in the sixth generation of video game consoles, preceding Sony's PlayStation 2, Nintendo's GameCube and Microsoft's Xbox. The Dreamcast was Sega's final home console, marking the end of the company's 18 years in the console market.</text>
+				<text>Dreamcast 是世嘉公司于1998年11月27日在日本， 1999年9月9日在北美和1999年10月14日在欧洲发布的家用视频游戏机。 它是第六代视频游戏机中的第一款， 先于索尼的 PlayStation 2， 任天堂的 GameCube 和微软的 Xbox 。 Dreamcast 是 Sega 最终的家用游戏机， 标志着该公司进入游戏机市场18年的终结。 </text>
 			</text>
 		
 			<text name="release_date" extra="true">
-				<text>Release Date: November 27, 1998</text>
+				<text>发布日期: November 27, 1998</text>
 			</text>
 			
 			<text name="developer" extra="true">
-				<text>Developer: Sega</text>
+				<text>厂商: Sega</text>
 			</text>
 			
 			<text name="cpu" extra="true">
@@ -38,19 +38,19 @@ author:			Juliano Dorigão
 			</text>
 			
 			<text name="memory" extra="true">
-				<text>Memory: 16 MB, 8 MB video, 2 MB audio</text>
+				<text>内存: 16 MB, 8 MB video, 2 MB audio</text>
 			</text>
 			
 			<text name="graphics" extra="true">
-				<text>Graphics: 100 MHz PowerVR2</text>
+				<text>显卡: 100 MHz PowerVR2</text>
 			</text>
 			
 			<text name="sound" extra="true">
-				<text>Sound: 67 MHz Yamaha AICA with 32-bit</text>
+				<text>声卡: 67 MHz Yamaha AICA with 32-bit</text>
 			</text>
 			
 			<text name="media" extra="true">
-				<text>Media: GD-ROM</text>
+				<text>存储介质: GD-ROM</text>
 			</text>
 		</view>
 	</feature>

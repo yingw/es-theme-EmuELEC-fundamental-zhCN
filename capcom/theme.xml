@@ -22,16 +22,15 @@ author:			Juliano Dorigão
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>
-Capcom Co, Ltd. (株式会社 カ プ コ ン Kabushiki-gaisha Kapukon?) Is a Osaka-based Japanese developer and publisher of electronic games. It is known to have created multi-million dollar franchises such as Resident Evil, Street Fighter, Mega Man, Devil May Cry, Dino Crisis and Onimusha. Its main headquarters is located in Chuo-ku, Osaka. Founded in 1983, it has become an international company with divisions and subsidiaries in North America, Europe, and East Asia.</text>
+				<text>Capcom Co ， Ltd.（卡普空）是一家总部位于大阪的日本电子游戏开发商和发行商， 总部位于大阪。 众所周知， 它创造了数百万美元的特许经营权， 例如《生化危机》， 《街头霸王》， 《洛克人》， 《鬼泣》， 《恐龙危机》和《鬼武者》。 其主要总部位于大阪市中央区。 它成立于1983年， 现已发展成为一家在北美， 欧洲和东亚设有分支机构的国际公司。 </text>
 			</text>
 		
 			<text name="release_date" extra="true">
-				<text>Release Date: may 30, 1979</text>
+				<text>发布日期: may 30, 1979</text>
 			</text>
 			
 			<text name="developer" extra="true">
-				<text>Developer: Capcom</text>
+				<text>厂商: Capcom</text>
 			</text>
 			
 			<text name="cpu" extra="true">

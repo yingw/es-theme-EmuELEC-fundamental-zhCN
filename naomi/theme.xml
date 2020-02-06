@@ -22,15 +22,15 @@ author:			Juliano Dorigão
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>The NAOMI (New Arcade Operation Machine Idea) is the successor to the Sega Model 3. Sega first demonstrated NAOMI publicly at the 1998 Amusement Machine Show (an annual trade show hosted in Tokyo by the Japan Amusement Machinery Manufacturers Association). After the show, Sega released the first NAOMI title to the Japanese market: The House of the Dead 2.</text>
+				<text>NAOMI （新街机操作机器概念）是 Sega Model 3的继承者。 Sega 首次在1998年 Amusement Machine Show （由日本 Amusement Machinery Manufacturers Association 在日本举办的年度贸易展览会）上公开展示了 NAOMI 。 演出结束后， 世嘉向日本市场发布了首个 NAOMI 头衔：《亡者之屋2》。 </text>
 			</text>
 		
 			<text name="release_date" extra="true">
-				<text>Release Date: Varies</text>
+				<text>发布日期: Varies</text>
 			</text>
 			
 			<text name="developer" extra="true">
-				<text>Developer: Sega</text>
+				<text>厂商: Sega</text>
 			</text>
 			
 			<text name="cpu" extra="true">
@@ -38,19 +38,19 @@ author:			Juliano Dorigão
 			</text>
 			
 			<text name="memory" extra="true">
-				<text>Memory: 32 MB</text>
+				<text>内存: 32 MB</text>
 			</text>
 			
 			<text name="graphics" extra="true">
-				<text>Graphics: NEC-VideoLogic PowerVR 2</text>
+				<text>显卡: NEC-VideoLogic PowerVR 2</text>
 			</text>
 			
 			<text name="sound" extra="true">
-				<text>Sound: Yamaha AICA</text>
+				<text>声卡: Yamaha AICA</text>
 			</text>
 			
 			<text name="media" extra="true">
-				<text>Media: ROM board</text>
+				<text>存储介质: ROM board</text>
 			</text>
 		</view>
 	</feature>

@@ -22,15 +22,15 @@ author:			Grila
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>The Nintendo Entertainment System is an 8-bit video game console that was released by Nintendo in North America during 1985, in Europe during 1986 and Australia in 1987. In most of Asia, including Japan (where it was first launched in 1983), China, Vietnam, Singapore, the Middle East and Hong Kong, it was released as the Family Computer, commonly shortened as either the romanized contraction Famicom, or abbreviated to FC. In South Korea, it was known as the Hyundai Comboy, and was distributed by Hynix which then was known as Hyundai Electronics.</text>
+				<text>Nintendo Entertainment System 是一个8位视频游戏机， 由任天堂于1985年在北美， 1986年在欧洲和1987年在澳大利亚发布。 在包括日本（于1983年首次在日本推出）在内的亚洲大部分地区， 中国 在越南， 新加坡， 中东和香港， 它以家庭计算机的形式发布， 通常简称为罗马式收缩 Famicom ， 或缩写为 FC 。 在韩国， 它被称为现代 Comboy ， 由 Hynix 发行， 而后又被称为 Hyundai Electronics 。 </text>
 			</text>
 		
 			<text name="release_date" extra="true">
-				<text>Release Date: October 18, 1985</text>
+				<text>发布日期: October 18, 1985</text>
 			</text>
 			
 			<text name="developer" extra="true">
-				<text>Developer: Nintendo</text>
+				<text>厂商: Nintendo</text>
 			</text>
 			
 			<text name="cpu" extra="true">
@@ -38,19 +38,19 @@ author:			Grila
 			</text>
 			
 			<text name="memory" extra="true">
-				<text>Memory: 2 KB RAM plus 2 KB video RAM</text>
+				<text>内存: 2 KB RAM plus 2 KB video RAM</text>
 			</text>
 			
 			<text name="graphics" extra="true">
-				<text>Graphics: RP2C02 (NTSC) or RP2C07 (PAL) PPU</text>
+				<text>显卡: RP2C02 (NTSC) or RP2C07 (PAL) PPU</text>
 			</text>
 			
 			<text name="sound" extra="true">
-				<text>Sound: PSG 5 channel mono</text>
+				<text>声卡: PSG 5 channel mono</text>
 			</text>
 			
 			<text name="media" extra="true">
-				<text>Media: Cartridge</text>
+				<text>存储介质: Cartridge</text>
 			</text>
 		</view>
 	</feature>

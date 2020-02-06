@@ -22,15 +22,15 @@ author:			Grila
 			</image>
 
 			<text name="console_notes" extra="true">
-				<text>The Game Gear is an 8-bit handheld game console released by Sega on October 6, 1990 in Japan, 1991 in North America and Europe, and Australia in 1992. The Game Gear primarily competed with Nintendo's Game Boy, the Atari Lynx and NEC's TurboExpress. The handheld shares much of its hardware with the Master System and is able to play its own titles as well as those of the Master System, the latter being made possible by the use of an adapter. Containing a full-color backlit screen with a landscape format, Sega positioned the Game Gear as a technologically superior handheld to the Game Boy.</text>
+				<text>Game Gear 是世嘉于1990年10月6日在日本， 1991年在北美和欧洲以及1992年在澳大利亚发布的8位手持游戏机。 GameGear 主要与任天堂的 Game Boy ， Atari Lynx 和 NEC 的 TurboExpress 竞争。 掌上电脑与主机系统共享其大部分硬件， 并且能够播放自己的名称以及主机系统的名称， 而后者可以通过使用适配器来实现。 Sega 包含具有横向格式的全彩色背光屏幕， 将 Game Gear 定位为 Game Boy 的技术上优越的掌上电脑。 </text>
 			</text>
 
 			<text name="release_date" extra="true">
-				<text>Release Date: October 6, 1990</text>
+				<text>发布日期: October 6, 1990</text>
 			</text>
 
 			<text name="developer" extra="true">
-				<text>Developer: Sega</text>
+				<text>厂商: Sega</text>
 			</text>
 
 			<text name="cpu" extra="true">
@@ -38,19 +38,19 @@ author:			Grila
 			</text>
 
 			<text name="memory" extra="true">
-				<text>Memory: 8 KB RAM, 16 KB video RAM</text>
+				<text>内存: 8 KB RAM, 16 KB video RAM</text>
 			</text>
 
 			<text name="graphics" extra="true">
-				<text>Graphics: Custom VDP</text>
+				<text>显卡: Custom VDP</text>
 			</text>
 
 			<text name="sound" extra="true">
-				<text>Sound: TI SN76489</text>
+				<text>声卡: TI SN76489</text>
 			</text>
 
 			<text name="media" extra="true">
-				<text>Media: Cartridge</text>
+				<text>存储介质: Cartridge</text>
 			</text>
 		</view>
 	</feature>

@@ -22,19 +22,19 @@ author:			Juliano Dorigão
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>CPS-3 or Capcom Play System 3 is an arcade card released by Capcom in 1996 with the game Red Earth (also known as Warzard). It was at the time a system with unparalleled 2D capabilities; many fighting game fans were impressed by the fluidity of animation in games such as Street Fighter III and others for the system, which was Capcom's latest (which would use other platforms such as Sega NAOMI and System 246).</text>
+				<text>CPS-3或 Capcom Play System 3是 Capcom 于1996年发布的一款街机卡， 其游戏为 Red Earth （也称为 Warzard ）。 当时的系统具有无与伦比的2D 功能。 Capcom 的最新系统（如 Sega NAOMI 和 System 246等平台）是该系统的又一系统， 其动画流畅性给许多格斗游戏迷留下了深刻的印象。 </text>
 			</text>
 		
 			<text name="release_date" extra="true">
-				<text>Release Date: may 30, 1996</text>
+				<text>发布日期: may 30, 1996</text>
 			</text>
 			
 			<text name="developer" extra="true">
-				<text>Developer: Capcom</text>
+				<text>厂商: Capcom</text>
 			</text>
 			
 			<text name="cpu" extra="true">
-				<text> Hitachi SH-2</text>
+				<text>CPU: Hitachi SH-2</text>
 			</text>
 			
 			<text name="memory" extra="true">

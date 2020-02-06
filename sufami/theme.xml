@@ -26,15 +26,15 @@ author:			Juliano Dorigão
 			</text>
 
 			<text name="release_date" extra="true">
-				<text>Release Date: June 28, 1996</text>
+				<text>发布日期: June 28, 1996</text>
 			</text>
 
 			<text name="developer" extra="true">
-				<text>Developer: Bandai</text>
+				<text>厂商: Bandai</text>
 			</text>
 
 			<text name="cpu" extra="true">
-				<text>Media: Cartridge</text>
+				<text>存储介质: Cartridge</text>
 			</text>
 		</view>
 	</feature>

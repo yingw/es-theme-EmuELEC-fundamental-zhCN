@@ -22,15 +22,15 @@ author:			Grila
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>The Sega Genesis, known as the Mega Drive in most regions outside of North America, is a 16-bit home video game console which was developed and sold by Sega Enterprises, Ltd. The Genesis was Sega's third console and the successor to the Master System. Sega first released the console as the Mega Drive in Japan in 1988, followed by a North American debut under the Genesis moniker in 1989. In 1990, the console was distributed as the Mega Drive by Virgin Mastertronic in Europe, by Ozisoft in Australasia, and by Tectoy in Brazil. In South Korea, the systems were distributed by Samsung and were known as the Super Gam*Boy, and later the Super Aladdin Boy.</text>
+				<text>Sega Genesis 是在北美以外的大多数地区称为 Mega Drive 的一款16位家庭视频游戏机， 由 Sega Enterprises ， Ltd.开发和销售。 Genesis 是 Sega 的第三款游戏机， 是 Master System 的后继产品 。 世嘉（ Sega ）于1988年在日本首次发行了这款名为 Mega Drive 的游戏机， 随后在1989年以 Genesis 的名字在北美首次亮相。 1990年， 该游戏机由欧洲的 Virgin Mastertronic ， 澳大利亚的 Ozisoft 以及欧洲的 Ozisoft 发行为 Mega Drive 。 由巴西的 Tectoy 设计。 在韩国， 这些系统由三星分销， 被称为“超级 Gam * Boy ”， 后来被称为“超级阿拉丁男孩”。 </text>
 			</text>
 		
 			<text name="release_date" extra="true">
-				<text>Release Date: August 14, 1989</text>
+				<text>发布日期: August 14, 1989</text>
 			</text>
 			
 			<text name="developer" extra="true">
-				<text>Developer: Sega</text>
+				<text>厂商: Sega</text>
 			</text>
 			
 			<text name="cpu" extra="true">
@@ -38,19 +38,19 @@ author:			Grila
 			</text>
 			
 			<text name="memory" extra="true">
-				<text>Memory: 64 KB main RAM and 64 KB video RAM</text>
+				<text>内存: 64 KB main RAM and 64 KB video RAM</text>
 			</text>
 			
 			<text name="graphics" extra="true">
-				<text>Graphics: Yahama YM7101 VDP</text>
+				<text>显卡: Yahama YM7101 VDP</text>
 			</text>
 			
 			<text name="sound" extra="true">
-				<text>Sound: Yamaha YM2612, Texas Instruments SN76489A</text>
+				<text>声卡: Yamaha YM2612, Texas Instruments SN76489A</text>
 			</text>
 			
 			<text name="media" extra="true">
-				<text>Media: Cartridge</text>
+				<text>存储介质: Cartridge</text>
 			</text>
 		</view>
 	</feature>

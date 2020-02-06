@@ -26,11 +26,11 @@ author:			Juliano Dorigão
 			</text>
 
 			<text name="release_date" extra="true">
-				<text>Release Date: March 4, 2000</text>
+				<text>发布日期: March 4, 2000</text>
 			</text>
 
 			<text name="developer" extra="true">
-				<text>Developer: Sony Computer Entertainment</text>
+				<text>厂商: Sony Computer Entertainment</text>
 			</text>
 
 			<text name="cpu" extra="true">
@@ -38,19 +38,19 @@ author:			Juliano Dorigão
 			</text>
 
 			<text name="memory" extra="true">
-				<text>Memory: 32 MB of RDRAM </text>
+				<text>内存: 32 MB of RDRAM </text>
 			</text>
 
 			<text name="graphics" extra="true">
-				<text>Graphics: 150 MHz "Graphics Synthesizer"</text>
+				<text>显卡: 150 MHz "Graphics Synthesizer"</text>
 			</text>
 
 			<text name="sound" extra="true">
-				<text>Sound: PCM 2ch 48KHz, Dolby Digital 5.1</text>
+				<text>声卡: PCM 2ch 48KHz, Dolby Digital 5.1</text>
 			</text>
 
 			<text name="media" extra="true">
-				<text>Media: DVD, CD</text>
+				<text>存储介质: DVD, CD</text>
 			</text>
 		</view>
 	</feature>

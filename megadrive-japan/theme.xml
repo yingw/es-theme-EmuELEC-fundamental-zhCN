@@ -22,15 +22,15 @@ author:			Grila
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>The Sega Mega Drive, called the Sega Genesis in North America and Super Gam*Boy (later Super Aladdin Boy) in South Korea, is a cartridge-based video game console developed by Sega in 1988. The Mega Drive is Sega's third home console, following the SG-1000 (including SG-1000 II) and the Sega Master System (Mark III). It was codenamed the Sega Mark V during development and is part of what is now known as the fourth generation of video game consoles. The Mega Drive is Sega's most successful video game console, selling over 40 million units worldwide.</text>
+				<text>Sega Mega Drive 是由 Sega 于1988年开发的基于盒式视频游戏机， 在北美称为 Sega Genesis ， 在南韩称为 Super Gam * Boy （后称 Super Aladdin Boy ）。 MegaDrive 是 Sega 的第三款家用游戏机， 遵循 SG-1000（包括 SG-1000 II ）和 Sega 主系统（ Mark III ）。 它在开发过程中的代号为 Sega Mark V ， 是现在称为第四代视频游戏机的一部分。 Mega Drive 是世嘉最成功的视频游戏机， 全球销量超过4000万台。 </text>
 			</text>
 		
 			<text name="release_date" extra="true">
-				<text>Release Date: August 14, 1989</text>
+				<text>发布日期: August 14, 1989</text>
 			</text>
 			
 			<text name="developer" extra="true">
-				<text>Developer: Sega</text>
+				<text>厂商: Sega</text>
 			</text>
 			
 			<text name="cpu" extra="true">
@@ -38,19 +38,19 @@ author:			Grila
 			</text>
 			
 			<text name="memory" extra="true">
-				<text>Memory: 64 KB main RAM and 64 KB video RAM</text>
+				<text>内存: 64 KB main RAM and 64 KB video RAM</text>
 			</text>
 			
 			<text name="graphics" extra="true">
-				<text>Graphics: Yahama YM7101 VDP</text>
+				<text>显卡: Yahama YM7101 VDP</text>
 			</text>
 			
 			<text name="sound" extra="true">
-				<text>Sound: Yamaha YM2612, Texas Instruments SN76489A</text>
+				<text>声卡: Yamaha YM2612, Texas Instruments SN76489A</text>
 			</text>
 			
 			<text name="media" extra="true">
-				<text>Media: Cartridge</text>
+				<text>存储介质: Cartridge</text>
 			</text>
 		</view>
 	</feature>

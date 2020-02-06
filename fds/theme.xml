@@ -22,15 +22,15 @@ author:			Juliano Dorigão
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>The Family Computer Disk Systemis a peripheral for Nintendo's Family Computer home video game console, released only in Japan on February 21, 1986. It uses proprietary floppy disks called "Disk Cards" for cheaper data storage and it adds a new high-fidelity sound channel for supporting FDS games. Its name is sometimes shortened as Famicom Disk System or simply Disk System,and abbreviated as FCDS, FDS, or FCD.</text>
+				<text>家庭计算机磁盘系统是任天堂家庭计算机家庭视频游戏机的外围设备， 该游戏机仅于1986年2月21日在日本发布。 它使用专有的称为“磁盘卡”的软盘来进行更便宜的数据存储， 并增加了新的高保真声音通道支持 FDS 游戏。 它的名称有时缩写为 Famicom Disk System 或简称为 Disk System ， 缩写为 FCDS ， FDS 或 FCD 。 </text>
 			</text>
 		
 			<text name="release_date" extra="true">
-				<text>Release Date: February 21, 1986</text>
+				<text>发布日期: February 21, 1986</text>
 			</text>
 			
 			<text name="developer" extra="true">
-				<text>Developer: Nintendo R&D2</text>
+				<text>厂商: Nintendo R&D2</text>
 			</text>
 			
 			<text name="cpu" extra="true">
@@ -38,19 +38,19 @@ author:			Juliano Dorigão
 			</text>
 			
 			<text name="memory" extra="true">
-				<text>Memory: 32 kB disk cache plus 8 kB game RAM</text>
+				<text>内存: 32 kB disk cache plus 8 kB game RAM</text>
 			</text>
 			
 			<text name="graphics" extra="true">
-				<text>Graphics: RP2C02 (NTSC) or RP2C07 (PAL) PPU</text>
+				<text>显卡: RP2C02 (NTSC) or RP2C07 (PAL) PPU</text>
 			</text>
 			
 			<text name="sound" extra="true">
-				<text>Sound: PSG 5 channel mono + 1 channel of wavetable synth</text>
+				<text>声卡: PSG 5 channel mono + 1 channel of wavetable synth</text>
 			</text>
 			
 			<text name="media" extra="true">
-				<text>Media: 112 KB Floppy disks</text>
+				<text>存储介质: 112 KB Floppy disks</text>
 			</text>
 		</view>
 	</feature>

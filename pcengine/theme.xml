@@ -22,15 +22,15 @@ author:			Grila
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>The PC Engine is a home video game console jointly developed by Hudson Soft and NEC Home Electronics, released in Japan on October 30, 1987 and in the United States on August 29, 1989. It also had a limited release in the United Kingdom and Spain in 1990, known as simply TurboGrafx and based on the American model, whilst the Japanese model was imported and distributed in France in 1989. It was the first console released in the 16-bit era, albeit still utilizing an 8-bit CPU. Originally intended to compete with the Nintendo Entertainment System (NES), it ended up competing with the Sega Genesis, and later on the Super Nintendo Entertainment System (SNES).</text>
+				<text>PC Engine 是由 Hudson Soft 和 NEC Home Electronics 共同开发的家用视频游戏机， 于1987年10月30日在日本和1989年8月29日在美国发布。 它还在英国和西班牙限量发行。 在1990年， 简称为 TurboGrafx ， 它基于美国模式， 而日本模式则于1989年在法国进口和分销。 这是16位时代发布的第一个控制台， 尽管它仍使用8位 CPU 。 最初旨在与 Nintendo Entertainment System （ NES ）竞争， 但最终与 Sega Genesis 和后来的 Super Nintendo Entertainment System （ SNES ）竞争。 </text>
 			</text>
 		
 			<text name="release_date" extra="true">
-				<text>Release Date: October 30, 1987</text>
+				<text>发布日期: October 30, 1987</text>
 			</text>
 			
 			<text name="developer" extra="true">
-				<text>Developer: Hudson Soft</text>
+				<text>厂商: Hudson Soft</text>
 			</text>
 			
 			<text name="cpu" extra="true">
@@ -38,19 +38,19 @@ author:			Grila
 			</text>
 			
 			<text name="memory" extra="true">
-				<text>Memory: 8 KB RAM plus 64 KB video RAM</text>
+				<text>内存: 8 KB RAM plus 64 KB video RAM</text>
 			</text>
 			
 			<text name="graphics" extra="true">
-				<text>Graphics: HuC6260 VCE \ HuC6270A VDC</text>
+				<text>显卡: HuC6260 VCE \ HuC6270A VDC</text>
 			</text>
 			
 			<text name="sound" extra="true">
-				<text>Sound: 6 PSG audio channels</text>
+				<text>声卡: 6 PSG audio channels</text>
 			</text>
 			
 			<text name="media" extra="true">
-				<text>Media: HuCard</text>
+				<text>存储介质: HuCard</text>
 			</text>
 		</view>
 	</feature>

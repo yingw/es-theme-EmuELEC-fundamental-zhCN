@@ -22,19 +22,19 @@ author:			Juliano Dorigão
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>CPS-2 or Capcom Play System 2 is an arcade card created by Capcom. It debuted in 1993 with the game Super Street Fighter II. CPS-2 consisted of two separate parts; a board A, which connects to JAMMA wiring and contains common components between the CPS-2 games, and a board B, which contains the game itself. The relationship between cards A and B is similar to that between a video game console and a cartridge. CPS-2 plates A and B are color-differentiated according to their region, and each plate only works when used with its counterpart of the same color.</text>
+				<text>CPS-2或 Capcom Play System 2是 Capcom 创建的街机卡。 它于1993年在游戏《超级街头霸王 II 》中首次亮相。 CPS-2由两个独立的部分组成； 一块板 A ， 它连接到 JAMMA 接线并包含 CPS-2游戏之间的公用组件；一块板 B ， 它包含游戏本身。 卡 A 和 B 之间的关系类似于视频游戏机和卡带之间的关系。 CPS-2印版 A 和 B 根据其区域进行颜色区分， 并且每个印版仅在与相同颜色的对应版一起使用时才能工作。 </text>
 			</text>
 		
 			<text name="release_date" extra="true">
-				<text>Release Date: may 30, 1993</text>
+				<text>发布日期: may 30, 1993</text>
 			</text>
 			
 			<text name="developer" extra="true">
-				<text>Developer: Capcom</text>
+				<text>厂商: Capcom</text>
 			</text>
 			
 			<text name="cpu" extra="true">
-				<text> Motorola 68000 a 11.8 MHz</text>
+				<text>CPU: Motorola 68000 a 11.8 MHz</text>
 			</text>
 			
 			<text name="memory" extra="true">
@@ -46,7 +46,7 @@ author:			Juliano Dorigão
 			</text>
 			
 			<text name="sound" extra="true">
-				<text>Q-Sound a 4 MHz</text>
+				<text>声卡: Q-Sound a 4 MHz</text>
 			</text>
 			
 			<text name="media" extra="true">

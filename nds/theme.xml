@@ -22,15 +22,15 @@ author:			Juliano Dorigão
 			</image>
 
 			<text name="console_notes" extra="true">
-				<text>The Nintendo DS, or simply DS, is a dual-screen handheld game console developed and released by Nintendo. The device released globally across 2004 and 2005. The DS, short for "Developers' System" or "Dual Screen", introduced distinctive new features to handheld gaming: two LCD screens working in tandem (the bottom one featuring a touchscreen), a built-in microphone, and support for wireless connectivity. Both screens are encompassed within a clamshell design similar to the Game Boy Advance SP. The Nintendo DS also features the ability for multiple DS consoles to directly interact with each other over Wi-Fi within a short range without the need to connect to an existing wireless network. Alternatively, they could interact online using the now-defunct Nintendo Wi-Fi Connection service.</text>
+				<text>Nintendo DS （或简称为 DS ）是 Nintendo 开发和发行的双屏手持游戏机。 该设备于2004年和2005年在全球范围内发布。 DS 是“开发人员系统”或“双屏”的简称， 它为手持游戏机引入了独特的新功能：两个 LCD 显示屏协同工作（底部带有触摸屏）， 内置 -麦克风， 并支持无线连接。 两种屏幕均采用类似于 Game Boy Advance SP 的翻盖设计。 Nintendo DS 还具有多个 DS 控制台能够在短范围内通过 Wi-Fi 直接相互交互的功能， 而无需连接到现有的无线网络。 另外， 他们可以使用现已失效的 Nintendo Wi-Fi 连接服务进行在线互动。 </text>
 			</text>
 
 			<text name="release_date" extra="true">
-				<text>Release Date: November 21, 2004</text>
+				<text>发布日期: November 21, 2004</text>
 			</text>
 
 			<text name="developer" extra="true">
-				<text>Developer: Nintendo</text>
+				<text>厂商: Nintendo</text>
 			</text>
 
 			<text name="cpu" extra="true">
@@ -38,15 +38,15 @@ author:			Juliano Dorigão
 			</text>
 
 			<text name="memory" extra="true">
-				<text>Memory: 4 MB RAM</text>
+				<text>内存: 4 MB RAM</text>
 			</text>
 
 			<text name="graphics" extra="true">
-				<text>Graphics: Two TFT LCD, 256 × 192 pixels</text>
+				<text>显卡: Two TFT LCD, 256 × 192 pixels</text>
 			</text>
 
 			<text name="sound" extra="true">
-				<text>Media: Nintendo game card, ROM cartridge</text>
+				<text>存储介质: Nintendo game card, ROM cartridge</text>
 			</text>
 		</view>
 	</feature>

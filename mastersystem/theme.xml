@@ -22,15 +22,15 @@ author:			Grila
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>The Sega Master System is a third-generation home video game console that was manufactured by Sega. It was originally released in 1985 as the Sega Mark III in Japan. After being redesigned prior to its North American launch, the console was renamed Master System and released in 1986 in North America, 1987 in Europe, and 1989 in Brazil. The Master System was also released in Japan in 1987 with additional features over the overseas models. Both the Mark III and the original Master System models could play with both cartridges and the credit card-sized Sega Cards, which retailed at lower prices than cartridges but had lower storage capacity. The Master System also featured accessories such as a light gun and 3D glasses which were designed to work with a range of specially coded games.</text>
+				<text>Sega Master System 是由 Sega 制造的第三代家用视频游戏机。 它最初于1985年作为 Sega Mark III 在日本发布。 在北美发行之前经过重新设计后， 该控制台更名为 Master System ， 分别于1986年在北美， 1987年在欧洲和1989年在巴西发布。 Master System 于1987年在日本发布， 具有海外型号的附加功能。 Mark III 和原始的 Master System 型号都可以同时使用墨盒和信用卡大小的 Sega 卡， 后者的零售价低于墨盒， 但存储容量较低。 主机系统还配备了诸如光枪和3D 眼镜之类的配件， 这些配件旨在与一系列特殊编码的游戏配合使用。 </text>
 			</text>
 		
 			<text name="release_date" extra="true">
-				<text>Release Date: October 20, 1985</text>
+				<text>发布日期: October 20, 1985</text>
 			</text>
 			
 			<text name="developer" extra="true">
-				<text>Developer: Sega</text>
+				<text>厂商: Sega</text>
 			</text>
 			
 			<text name="cpu" extra="true">
@@ -38,19 +38,19 @@ author:			Grila
 			</text>
 			
 			<text name="memory" extra="true">
-				<text>Memory: 8 KB RAM plus 16 KB video RAM</text>
+				<text>内存: 8 KB RAM plus 16 KB video RAM</text>
 			</text>
 			
 			<text name="graphics" extra="true">
-				<text>Graphics: TI TMS9928A VDP</text>
+				<text>显卡: TI TMS9928A VDP</text>
 			</text>
 			
 			<text name="sound" extra="true">
-				<text>Sound: TI SN76489 PSG 4 channels</text>
+				<text>声卡: TI SN76489 PSG 4 channels</text>
 			</text>
 			
 			<text name="media" extra="true">
-				<text>Media: Cartridge, Sega Card</text>
+				<text>存储介质: Cartridge, Sega Card</text>
 			</text>
 		</view>
 	</feature>

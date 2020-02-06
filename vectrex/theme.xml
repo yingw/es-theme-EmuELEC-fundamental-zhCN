@@ -27,11 +27,11 @@ Unlike other non-portable video game consoles, which connected to televisions an
 			</text>
 
 			<text name="release_date" extra="true">
-				<text>Release Date: November 1982</text>
+				<text>发布日期: November 1982</text>
 			</text>
 
 			<text name="developer" extra="true">
-				<text>Developer: General Consumer Electronics</text>
+				<text>厂商: General Consumer Electronics</text>
 			</text>
 
 			<text name="cpu" extra="true">
@@ -39,19 +39,19 @@ Unlike other non-portable video game consoles, which connected to televisions an
 			</text>
 
 			<text name="memory" extra="true">
-				<text>Memory: 1 KB</text>
+				<text>内存: 1 KB</text>
 			</text>
 
 			<text name="graphics" extra="true">
-				<text>Graphics: MOS 6522 (VIA)</text>
+				<text>显卡: MOS 6522 (VIA)</text>
 			</text>
 
 			<text name="sound" extra="true">
-				<text>Sound: AY-3-8912</text>
+				<text>声卡: AY-3-8912</text>
 			</text>
 
 			<text name="media" extra="true">
-				<text>Media: ROM cartridge</text>
+				<text>存储介质: ROM cartridge</text>
 			</text>
 		</view>
 	</feature>

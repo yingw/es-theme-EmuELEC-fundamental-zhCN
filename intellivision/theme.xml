@@ -26,11 +26,11 @@ author:			Juliano Dorigão
 			</text>
 		
 			<text name="release_date" extra="true">
-				<text>Release Date: 1979</text>
+				<text>发布日期: 1979</text>
 			</text>
 			
 			<text name="developer" extra="true">
-				<text>Developer: Mattel Electronics, INTV Corporation</text>
+				<text>厂商: Mattel Electronics, INTV Corporation</text>
 			</text>
 			
 			<text name="cpu" extra="true">
@@ -38,19 +38,19 @@ author:			Juliano Dorigão
 			</text>
 			
 			<text name="memory" extra="true">
-				<text>Memory: 524B, 932B graphics, 7168B ROM</text>
+				<text>内存: 524B, 932B graphics, 7168B ROM</text>
 			</text>
 			
 			<text name="graphics" extra="true">
-				<text>Graphics: STIC 1B</text>
+				<text>显卡: STIC 1B</text>
 			</text>
 			
 			<text name="sound" extra="true">
-				<text>Sound: GI AY-3-8914</text>
+				<text>声卡: GI AY-3-8914</text>
 			</text>
 			
 			<text name="media" extra="true">
-				<text>Media: ROM cartridge</text>
+				<text>存储介质: ROM cartridge</text>
 			</text>
 		</view>
 	</feature>
